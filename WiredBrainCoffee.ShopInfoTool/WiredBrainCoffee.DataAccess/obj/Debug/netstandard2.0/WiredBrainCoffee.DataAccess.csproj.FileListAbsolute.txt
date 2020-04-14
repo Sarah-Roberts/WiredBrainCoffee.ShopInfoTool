@@ -1,0 +1,8 @@
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\bin\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.deps.json
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\bin\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.dll
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\bin\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.pdb
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\obj\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\obj\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\obj\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.AssemblyInfo.cs
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\obj\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.dll
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.DataAccess\obj\Debug\netstandard2.0\WiredBrainCoffee.DataAccess.pdb

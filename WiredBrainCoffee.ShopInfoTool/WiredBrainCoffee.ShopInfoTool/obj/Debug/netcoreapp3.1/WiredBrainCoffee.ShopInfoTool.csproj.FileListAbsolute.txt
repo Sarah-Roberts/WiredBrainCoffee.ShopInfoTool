@@ -1,0 +1,16 @@
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.exe
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.deps.json
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.runtimeconfig.json
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.runtimeconfig.dev.json
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.dll
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.pdb
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.DataAccess.dll
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\bin\Debug\netcoreapp3.1\WiredBrainCoffee.DataAccess.pdb
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.csprojAssemblyReference.cache
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.AssemblyInfoInputs.cache
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.AssemblyInfo.cs
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.csproj.CopyComplete
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.dll
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.pdb
+C:\Users\Sarah\VS Projects\GITHUB\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\WiredBrainCoffee.ShopInfoTool\obj\Debug\netcoreapp3.1\WiredBrainCoffee.ShopInfoTool.genruntimeconfig.cache
